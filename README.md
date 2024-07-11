@@ -5,7 +5,7 @@
 | Nombres | Apellidos | Codigo
 | ------ | ------ |------|
 | Anthony Alexander | Cano Sucso|2020067573|
-| Jose Luis | Jarro Cachi| 2020067144|
+| Jose Luis | Jarro Cachi| 2020067148|
 |  Jhonny |Rivera Mendoza| 2020067148|
 | Jean Pier Elias  |Valverde Zamora|2020066920 |
 
